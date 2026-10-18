@@ -7,7 +7,7 @@
 ## Summary
 
 
-## Team members
+## Tean members
 | Name | Student Number|
 | ---- | ----- |
 | Muhammed Awwal Damilare Alimi | 143272250 |
@@ -16,7 +16,7 @@
 | Keyun Fu | 113941264 |
 | Muhammad Umer | 178267233 |
 
-## Team Contributions
+## Tean Contributions
 - Muhammed Awwal Damilare Alimi: 
 
 - Ridwan Alabi: 
