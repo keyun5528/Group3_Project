@@ -1,7 +1,7 @@
 # Group3_Project
 
 ## Topic
-
+**Rust vs. C/C++ — The Industry Shift Toward Memory Safety**
 [Youtube Link]()
 
 ## Summary
