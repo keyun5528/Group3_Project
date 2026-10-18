@@ -2,6 +2,10 @@
 
 ## Topic
 
+[Youtube Link]()
+
+## Summary
+
 
 ## Team members
 | Name | Student Number|
@@ -11,3 +15,14 @@
 | Jefferson Chow | 101819266 |
 | Keyun Fu | 113941264 |
 | Muhammad Umer | 178267233 |
+
+## Team Contributions
+- Muhammed Awwal Damilare Alimi: 
+
+- Ridwan Alabi: 
+
+- Jefferson Chow: 
+
+- Keyun Fu:
+
+- Muhammad Umer: 
