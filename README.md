@@ -2,6 +2,7 @@
 
 ## Topic
 **Rust vs. C/C++ — The Industry Shift Toward Memory Safety**
+
 [Youtube Link]()
 
 ## Summary
@@ -17,12 +18,19 @@
 | Muhammad Umer | 178267233 |
 
 ## Team Contributions
-- Muhammed Awwal Damilare Alimi: 
+- Muhammed Awwal Damilare Alimi:  
+  - Impact on Software Development section in the presentation
 
-- Ridwan Alabi: 
+- Ridwan Alabi:  
+  - Key Developments & How It Works section in the presentation
 
-- Jefferson Chow: 
+- Jefferson Chow:  
+  - Conclusion & References section in the presentation
 
-- Keyun Fu:
+- Keyun Fu:  
+  - Introduction & Background section in the presentation  
+  - Managed group repository
 
-- Muhammad Umer: 
+- Muhammad Umer:  
+  - Challenges, Risks & Future Outlook section in the presentation  
+  - Designed the presentation structurea
