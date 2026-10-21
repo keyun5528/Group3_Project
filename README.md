@@ -33,4 +33,4 @@
 
 - Muhammad Umer:  
   - Challenges, Risks & Future Outlook section in the presentation  
-  - Designed the presentation structurea
+  - Designed the presentation structure
