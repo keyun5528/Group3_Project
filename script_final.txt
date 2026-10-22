@@ -1,0 +1,41 @@
+Introduction:
+Tech giants like Microsoft, AWS, and Meta are replacing C and C++ with Rust to fix decades-old memory safety vulnerabilities. In fact, a Microsoft lead engineer announced a goal to completely eliminate C and C++ by 2030.
+But why is memory safety so important? And how will they pull off this huge transition? In this presentation, we’ll cover how it works, its impact on the industry, and the future outlook.
+
+
+Development:
+Thank you, Keyun. I'll explain how Rust developed and how it improves memory safety.
+Rust was officially released in 2015. Unlike C and C++, where programmers often manage memory manually, Rust helps prevent memory errors automatically. In 2022, Rust support was introduced into the Linux kernel, showing its growing importance.
+Rust uses three important concepts: ownership, borrowing, and the borrow checker.
+Ownership means every value has an owner. Borrowing allows another part of the program to use that value temporarily. The borrow checker checks these rules before the program runs, helping prevent memory errors.
+In C and C++, programmers can accidentally access memory after it has been released. This is called a use-after-free error.
+Rust uses ownership rules to prevent many of these mistakes during compilation, making programs safer.
+Rust allows multiple references to read data, or one reference to modify it, without conflicting access.
+The compiler checks these rules to prevent unsafe memory operations.
+Companies are increasingly interested in Rust because it combines performance with memory safety.
+It can prevent many common programming errors without requiring a garbage collector.
+Rust does not completely replace C or C++, but it offers a safer option for developing new software.
+That concludes my section. I'll now hand over to Muhammed, who will explain the impact of Rust on software development. Thank you.
+
+
+IMPACT:
+Rust improves software safety, security, and reliability compared to C and C++.
+It prevents many common memory errors, reducing debugging and security risks.
+Mozilla uses Rust in parts of Firefox, while C++ remains popular in game development.
+Overall, both Rust and C++ remain important depending on the project's needs.
+
+Challenge:
+1) Although Rust improves memory safety, adopting it comes with challenges.
+Its ownership and borrowing rules require developers to learn a different approach to memory management. Also, rewriting millions of lines of existing C and C++ code can be expensive and complicated as it requires alot of work and resources
+
+Rust isn't completely risk-free. Its unsafe features allow certain operations outside the compiler's usual memory-safety guarantees, so careful review is still necessary.
+
+2) However, Rust's future looks promising. In 2025, Google reported that Rust code in Android had over a thousand times lower estimated memory-safety vulnerability density than historical C and C++ code.
+Rust is also being integrated into the Linux kernel.
+Rather than replacing C and C++ completely, Rust will likely coexist with them, helping developers gradually build safer software.
+
+
+Conclusion:
+To wrap up, Rust isn't here to wipe out C and C++ overnight. Instead, it's driving a crucial shift toward a safer digital infrastructure. By eliminating memory vulnerabilities at compile time, Rust empowers us to build more secure and reliable software.
+
+Thank you for watching, and let's see how Rust continues to shape the future of software safety.
