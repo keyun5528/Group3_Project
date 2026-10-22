@@ -1,0 +1,9 @@
+ IMPACT ON SOFTWARE DEVELOPMENT
+
+Rust improves software safety, security, and reliability compared to C and C++.
+
+It prevents many common memory errors, reducing debugging and security risks.
+
+Mozilla uses Rust in parts of Firefox, while C++ remains popular in game development.
+
+Overall, both Rust and C++ remain important depending on the project's needs.

@@ -1,0 +1,3 @@
+Tech giants like Microsoft, AWS, and Meta are replacing C and C++ with Rust to fix decades-old memory safety vulnerabilities. In fact, a Microsoft lead engineer announced a goal to completely eliminate C and C++ by 2030.
+
+But why is memory safety so important? And how will they pull off this huge transition? In this presentation, we’ll cover how it works, its impact on the industry, and the future outlook.
