@@ -1,0 +1,3 @@
+To wrap up, Rust isn't here to wipe out C and C++ overnight. Instead, it's driving a crucial shift toward a safer digital infrastructure. By eliminating memory vulnerabilities at compile time, Rust empowers us to build more secure and reliable software.
+
+Thank you for watching, and let's see how Rust continues to shape the future of software safety.
