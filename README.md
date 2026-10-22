@@ -3,7 +3,7 @@
 ## Topic
 **Rust vs. C/C++ — The Industry Shift Toward Memory Safety**
 
-[Youtube Link]()
+[Youtube Link](https://youtu.be/fqKBFf8TQ9o?si=4jb5bifbbkgznZns)
 
 ## Summary
 Major tech giants are adopting Rust to solve long-standing memory safety vulnerabilities found in traditional C and C++ codebases. By enforcing strict ownership and borrowing rules during compilation, Rust automatically prevents memory errors without sacrificing runtime performance. Although legacy code migration and steep learning curves present challenges, Rust will coexist with C and C++ to build a safer software future.
